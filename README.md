@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&pause=300&color=8A2BE2&center=true&vCenter=true&width=600&lines=Aashni+Kushwaha;Computer+Science+Engineer;Web+Developer;Java+Full+Stack+Developer" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&pause=300&color=8A2BE2&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Hi+%F0%9F%91%8B+I'm+Aashni+Kushwaha;Computer+Science+Engineer;Web+Developer;Java+Full+Stack+Developer" />
 </p>
+
 
 <h4 align="center">
 Full Stack Developer — Java | Building responsive websites & exploring new tools | Open to Collaboration
