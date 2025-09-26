@@ -201,7 +201,7 @@ Hi, I'm <strong>Aashni Kushwaha</strong>, a dedicated <strong>Web Developer</str
 <details open>
   <summary>See quote</summary>
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.%20-%20Cory%20House" alt="motivational quote"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=“Programs+must+be+written+for+people+to+read,+and+only+incidentally+for+machines+to+execute.”+–+Harold+Abelson" alt="motivational quote"/>
   </a>
 </details>
 
@@ -214,7 +214,7 @@ Hi, I'm <strong>Aashni Kushwaha</strong>, a dedicated <strong>Web Developer</str
 <details>
   <summary>See joke</summary>
   <a href="https://github.com/ABSphreak/readme-jokes">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&category=programming" alt="Programmer Jokes Card" width="100%"/>
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&category=programming&limit=1" alt="Programmer Joke Card" width="100%"/>
   </a>
 </details>
 
